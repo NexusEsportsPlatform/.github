@@ -11,3 +11,15 @@ Nexus is an app designed to bring the energy and excitement of in-person esports
 - google SDK
 - facebook SDK
 - react native google maps
+- aws-sdk
+-cookie-session
+-cors
+-dotenv"
+-ejs
+-express
+-geolocation API
+-google-auth-library
+-mongoose
+-multer
+-nodemon
+-passport-google-oauth20
